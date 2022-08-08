@@ -1,0 +1,8 @@
+node_modules
+/dist
+.DS_Store
+*.tsbuildinfo
+.jest-cache
+.swc
+coverage
+.vscode
